@@ -36,7 +36,3 @@ Se você habilitou backups criptografados de ponta a ponta no WhatsApp:
 - A chave é específica para cada instalação do WhatsApp
 - Se você reinstalar o WhatsApp, uma nova chave será gerada
 - Sempre mantenha uma cópia segura do arquivo de chave se pretende manter backups
-
-## Limitações legais
-
-Lembre-se que estas ferramentas devem ser usadas apenas para acessar seus próprios dados. Tentar acessar dados de terceiros sem consentimento pode violar leis de privacidade.
